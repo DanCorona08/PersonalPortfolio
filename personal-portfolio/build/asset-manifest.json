@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0bd1b452.css",
+    "main.js": "/static/js/main.97686a39.js",
+    "static/js/453.b21437c2.chunk.js": "/static/js/453.b21437c2.chunk.js",
+    "static/media/quiz-mania-gif.gif": "/static/media/quiz-mania-gif.7adbdc1da7babeba221c.gif",
+    "static/media/matrix-bg.gif": "/static/media/matrix-bg.60e5e66a962fcc925964.gif",
+    "static/media/info-gif.gif": "/static/media/info-gif.9b7bfc466110d1588e74.gif",
+    "static/media/header-matrix-img.webp": "/static/media/header-matrix-img.2cd8f46a21e3d0be9756.webp",
+    "static/media/djc-logo.webp": "/static/media/djc-logo.48d9e3fc0c0a97e25d0a.webp",
+    "static/media/web-development-banner.jpg": "/static/media/web-development-banner.1baa16d80b3bea3bcae8.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/quiz-mania-login-img.PNG": "/static/media/quiz-mania-login-img.c85b9c5fffd7c2538b03.PNG",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "index.html": "/index.html",
+    "main.0bd1b452.css.map": "/static/css/main.0bd1b452.css.map",
+    "main.97686a39.js.map": "/static/js/main.97686a39.js.map",
+    "453.b21437c2.chunk.js.map": "/static/js/453.b21437c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bd1b452.css",
+    "static/js/main.97686a39.js"
+  ]
+}
